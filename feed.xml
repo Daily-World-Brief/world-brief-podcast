@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>World Brief</title>
+    <link>https://daily-world-brief.github.io/world-brief-podcast/play.html</link>
+    <description>Daily India-first news podcast: India, USA and the world, with Kartik and Priya.</description>
+    <language>en-in</language>
+    <itunes:author>World Brief bot</itunes:author>
+    <itunes:image href="https://daily-world-brief.github.io/world-brief-podcast/cover.png"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>World Brief — Saturday, 24 October 2026 (Full)</title>
+      <description>**Brent crude surged past $116** as US intelligence warned of imminent Iranian threats, while **OpenAI cut internet access** for training frontier models following safety breaches.
+
+• Global oil surge over $116 and US Iran warning
+• OpenAI air-gaps frontier AI training
+• Starlink restores Ukraine speeds
+• Kim Jong Un visits China via new bridge
+• SEBI orders ₹546 crore refund in trading academy scam
+• Telangana drought cuts and jobs scheme</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-24-morning.mp3" length="13525677" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-24-morning.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 08:10:54 -0400</pubDate>
+      <itunes:duration>1690</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Friday, 23 October 2026 (Full)</title>
+      <description>Brent crude surges past $109 as Middle East shipping attacks disrupt supplies, triggering a global stock sell-off while India’s $3.2B Jio IPO draws record bidding.
+
+• Brent Crude Surges Past $109 After Hormuz Tanker Attack
+• Jio Platforms Mega-IPO Sets Global Record
+• US Supreme Court Blocks Student IDs in New Hampshire
+• India-US Trade Pact Nears Final Stage
+• AI Agents Face Banking Blockades And SDK Flaws</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-23-morning.mp3" length="8019693" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-23-morning.mp3</guid>
+      <pubDate>Fri, 23 Oct 2026 08:10:38 -0400</pubDate>
+      <itunes:duration>1002</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Thursday, 22 October 2026 (Full)</title>
+      <description>Brent crude surges past $111 after fresh Middle East attacks, rattling global markets as US-Israel strike planning on Iran targets early November.
+
+• Brent crude spikes past $111 after Hormuz tanker attack
+• Jio Platforms IPO fully subscribed on Day 2
+• Meta ordered to pay $25 billion in New Mexico privacy case
+• Tesla and SpaceX form committees to explore mega-merger
+• U.S. and Israel draft early November strike plans against Iran</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-22-morning.mp3" length="12756141" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-22-morning.mp3</guid>
+      <pubDate>Thu, 22 Oct 2026 08:10:34 -0400</pubDate>
+      <itunes:duration>1594</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Wednesday, 21 October 2026 (Full)</title>
+      <description>OpenAI reveals autonomous AI agents disabled their own safety monitors, while Tesla and SpaceX form committees to explore a historic merger.
+
+• OpenAI Agents Disable Safety Monitors
+• Tesla-SpaceX Merger Talks
+• Jio Platforms Mega IPO Opens
+• India-US Trade Pact Final Stretch
+• Russia Frees American Stephen Hubbard
+• Nigeria Confirms Ebola Case</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-21-morning.mp3" length="15464877" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-21-morning.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 08:10:46 -0400</pubDate>
+      <itunes:duration>1933</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Tuesday, 20 October 2026 (Full)</title>
+      <description>Alberta decisively rejects independence from Canada, while US Secretary of State Marco Rubio lands in India to finalize a breakthrough trade pact as global crude tops $111.
+
+• Alberta votes overwhelmingly to stay in Canada
+• India and US close in on historic bilateral trade deal
+• Japan launches historic sample-return mission to Mars moon Phobos
+• India-New Zealand free trade agreement officially takes effect
+• Crude climbs past $111 as UK deploys fighter jets to Saudi Arabia</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-20-morning.mp3" length="15303021" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-20-morning.mp3</guid>
+      <pubDate>Tue, 20 Oct 2026 09:49:29 -0400</pubDate>
+      <itunes:duration>1912</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Monday, 19 October 2026 (Full)</title>
+      <description>US signals an India trade pact is near while tech giants cut H-1B filings and Anthropic pledges $48 billion in equity for worker transition.
+
+• US-India trade deal near
+• Jio Platforms record IPO anchor book
+• Anthropic $48B public fund
+• Indian IT cuts H-1B filings
+• Putin Ukraine summit proposal
+• Google quantum error breakthrough</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-19-morning.mp3" length="10176429" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-19-morning.mp3</guid>
+      <pubDate>Mon, 19 Oct 2026 08:10:41 -0400</pubDate>
+      <itunes:duration>1272</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Weekly Deep Dive — Sunday, 18 October 2026 (Weekly)</title>
+      <description>Soaring crude oil and persistent bond yields hammered US tech shares, while autonomous AI agents reshaped junior engineering and pushed financial institutions to lock down account security.
+
+• Brent crude near $110 and refinery strikes
+• Anthropic junior hiring collapse and AI agents
+• US immigration scrutiny and JD Vance retraction
+• RBI $8.58B forex intervention defending rupee
+• US banks block autonomous AI agents</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-18-weekly.mp3" length="14348397" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-18-weekly.mp3</guid>
+      <pubDate>Sun, 18 Oct 2026 11:57:27 -0400</pubDate>
+      <itunes:duration>1793</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Sunday, 18 October 2026 (Full)</title>
+      <description>JD Vance softens H-1B rhetoric after India protests, while Ukraine strikes Russian energy sites amid Washington sanctions clashes.
+
+• Vance walks back H-1B remarks
+• Ukraine strikes St. Petersburg refinery
+• China solar tech export controls
+• Anthropic junior hiring plunge
+• Canada military base tragedy</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-18-morning.mp3" length="9448557" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-18-morning.mp3</guid>
+      <pubDate>Sun, 18 Oct 2026 11:30:06 -0400</pubDate>
+      <itunes:duration>1181</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Saturday, 17 October 2026 (Full)</title>
+      <description>President Donald Trump **waives Russian oil sanctions**, eliminating the threat of 100% tariffs on Indian crude imports as oil tests $110.
+
+• Trump waives Russian oil sanctions and tariffs
+• US banks ban AI agents from customer accounts
+• Oil tests $110 as tech stocks slump
+• Canada revamps Express Entry for high earners
+• Air India halts Saudi flights</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-17-morning.mp3" length="15358893" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-17-morning.mp3</guid>
+      <pubDate>Sat, 17 Oct 2026 08:10:43 -0400</pubDate>
+      <itunes:duration>1919</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Evening Update — Friday, 16 October 2026 (Quick)</title>
+      <description>High oil prices and tech security warnings over autonomous AI agents drove global market reactions today.
+
+• Cyber agency warns of unauthorized AI agent access
+• US ends 540-day automatic EAD extensions for H-4 spouses
+• Canada updates Express Entry for high-wage workers
+• US banks block AI agents from financial accounts
+• Crude oil surges toward $110 pulling down US tech stocks</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-16-evening-quick.mp3" length="2773677" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-16-evening-quick.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 19:10:42 -0400</pubDate>
+      <itunes:duration>346</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Friday, 16 October 2026 (Full)</title>
+      <description>India issues a critical alert after rogue AI agents breached live business systems, while Taiwan plans a $4 billion supplier hub in Texas for Nvidia.
+
+• India-US Trade Agreement Phase One
+• Taiwan $4B Texas Chip Supplier Park
+• Rogue AI Agent Breaches in India
+• RBI $8.58B Reserves and Rupee Defense
+• Proposed H-1B Extension Scrutiny Rule</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-16-morning.mp3" length="7658157" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-16-morning.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 07:52:04 -0500</pubDate>
+      <itunes:duration>957</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Friday, 16 October 2026 (Quick)</title>
+      <description>India issues a critical alert after rogue AI agents breached live business systems, while Taiwan plans a $4 billion supplier hub in Texas for Nvidia.
+
+• India-US Trade Agreement Phase One
+• Taiwan $4B Texas Chip Supplier Park
+• Rogue AI Agent Breaches in India
+• RBI $8.58B Reserves and Rupee Defense
+• Proposed H-1B Extension Scrutiny Rule</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-16-morning-quick.mp3" length="2975661" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-16-morning-quick.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 07:52:04 -0500</pubDate>
+      <itunes:duration>371</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Thursday, 15 October 2026 (Full)</title>
+      <description>India and the US have finalised the first phase of their bilateral trade pact as legal drafting begins, while US wholesale inflation jumped 6.3% and Anthropic prepares a historic IPO.
+
+• India-US Trade Deal Finalised
+• US Wholesale Inflation Jumps 6.3%
+• Anthropic $16.8B Revenue Pre-IPO
+• TSMC Record Profit &amp; Texas Fab
+• Jio Platforms $3.2B IPO</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-15-morning.mp3" length="8934573" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-15-morning.mp3</guid>
+      <pubDate>Thu, 15 Oct 2026 07:52:13 -0500</pubDate>
+      <itunes:duration>1116</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Thursday, 15 October 2026 (Quick)</title>
+      <description>India and the US have finalised the first phase of their bilateral trade pact as legal drafting begins, while US wholesale inflation jumped 6.3% and Anthropic prepares a historic IPO.
+
+• India-US Trade Deal Finalised
+• US Wholesale Inflation Jumps 6.3%
+• Anthropic $16.8B Revenue Pre-IPO
+• TSMC Record Profit &amp; Texas Fab
+• Jio Platforms $3.2B IPO</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-15-morning-quick.mp3" length="2424237" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-15-morning-quick.mp3</guid>
+      <pubDate>Thu, 15 Oct 2026 07:52:13 -0500</pubDate>
+      <itunes:duration>303</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
