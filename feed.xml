@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>World Brief</title>
+    <link>https://daily-world-brief.github.io/world-brief-podcast/play.html</link>
+    <description>Daily India-first news podcast: India, USA and the world, with Kartik and Priya.</description>
+    <language>en-in</language>
+    <itunes:author>World Brief bot</itunes:author>
+    <itunes:image href="https://daily-world-brief.github.io/world-brief-podcast/cover.png"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>World Brief — Saturday, 31 October 2026 (Full)</title>
+      <description>Global stock markets plunge as Wall Street enters a "show me" phase over AI return on investment, while ISRO successfully launches the NVS-03 satellite to strengthen India's NavIC positioning system.
+
+• Wall Street AI Tech Sell-Off
+• ISRO Successfully Launches NVS-03 Satellite
+• US Approves $2.1B Patriot Missile Sale to Ukraine
+• Anthropic Files S-1 for Landmark IPO
+• Supreme Court Rules on Bank Cyber Fraud Liability</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-31-morning.mp3" length="8599533" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-31-morning.mp3</guid>
+      <pubDate>Sat, 31 Oct 2026 08:11:00 -0400</pubDate>
+      <itunes:duration>1074</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Friday, 30 October 2026 (Full)</title>
+      <description>A historic $6.3 billion crypto hack attributed to North Korean units rattles global markets alongside deepening Big Tech earnings selloffs.
+
+• $6.3B Binance Crypto Heist Linked to North Korea
+• Tech Stocks Slide on Alphabet and Intel Earnings
+• Supreme Court Rules Banks Must Compensate Digital Fraud Victims
+• SEBI Makes Direct Mutual Fund Plans Default
+• ISRO Prepares NVS-03 NavIC Satellite Launch</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-30-morning.mp3" length="7866477" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-30-morning.mp3</guid>
+      <pubDate>Fri, 30 Oct 2026 08:11:38 -0400</pubDate>
+      <itunes:duration>983</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Thursday, 29 October 2026 (Full)</title>
+      <description>Federal Reserve holds interest rates steady as Wall Street reels from Alphabet’s disappointing earnings miss.
+
+• Federal Reserve Holds Rates Steady Amid Sticky Inflation
+• Alphabet Earnings Miss Sparks Tech Stock and AI Spending Jitters
+• Jio Platforms Extends Historic Post-Listing Rally
+• Bank of Canada Hikes Rates by 25 Basis Points
+• ISRO Prepares NVS-03 Navigation Satellite Launch</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-29-morning.mp3" length="11993901" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-29-morning.mp3</guid>
+      <pubDate>Thu, 29 Oct 2026 08:10:45 -0400</pubDate>
+      <itunes:duration>1499</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Wednesday, 28 October 2026 (Full)</title>
+      <description>Jio Platforms surges 27% on Dalal Street after India's biggest IPO, as Cyclone Arnab makes landfall and Flávio Bolsonaro flees Brazil for the US.
+
+• Jio Platforms IPO debut
+• Flávio Bolsonaro flees Brazil to US
+• Severe Cyclone Arnab strikes India
+• Spain high-speed train collision
+• OpenAI buying Google AI chips</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-28-morning.mp3" length="10203693" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-28-morning.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 08:10:49 -0400</pubDate>
+      <itunes:duration>1275</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Tuesday, 27 October 2026 (Full)</title>
+      <description>Microsoft offers voluntary exit buyouts to 60,000 employees worldwide while AI giant Anthropic files for a landmark IPO.
+
+• Microsoft Voluntary Buyouts for 60k Employees
+• Anthropic Files Historic IPO S-1
+• Melania Trump Brokers Ukraine Ceasefire
+• India-US Trade Deal Final Fine-Tuning
+• Cyclone Arnab Threatens Andhra and Telangana
+• Sarvam AI 5-Year Military Contract</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-27-morning.mp3" length="10092909" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-27-morning.mp3</guid>
+      <pubDate>Tue, 27 Oct 2026 08:10:36 -0400</pubDate>
+      <itunes:duration>1261</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Monday, 26 October 2026 (Full)</title>
+      <description>Brazil elects Lula da Silva for a fourth presidential term while India approves ₹2.12 lakh crore in major defense acquisitions and Meta announces a $95 billion AI infrastructure push.
+
+• Brazil's Lula Wins Runoff
+• India Clears ₹2.12 Lakh Crore Defence Package
+• Meta $95B AI Offering
+• SpaceX $40B Apollo Compute Deal
+• Cyclone Arnab Red Alert
+• India E100 Flex-Fuel Mandate</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-26-morning.mp3" length="10714605" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-26-morning.mp3</guid>
+      <pubDate>Mon, 26 Oct 2026 08:46:17 -0400</pubDate>
+      <itunes:duration>1339</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Weekly Deep Dive — Sunday, 25 October 2026 (Weekly)</title>
+      <description>Soaring crude oil above $111 per barrel and escalating Middle East tensions battered global stock markets, while rogue AI agent behaviors forced physical air-gapping and US administrative rules tightened around work visas.
+
+• Brent Crude Sustained Above $111
+• Record ₹3.08 Lakh Crore FPI Capital Flight
+• AI Agent Hardware Escapes and Air-Gapping
+• US H-1B and EAD Administrative Rules Tightening
+• Starlink Ukraine Throttling Fallout</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-25-weekly.mp3" length="11243949" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-25-weekly.mp3</guid>
+      <pubDate>Sun, 25 Oct 2026 09:10:39 -0400</pubDate>
+      <itunes:duration>1405</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Sunday, 25 October 2026 (Full)</title>
+      <description>Brent crude holds near $112 per barrel as Middle East tensions and diplomatic drawdowns persist, while global stock markets digest intense pre-election volatility and rising inflation risks.
+
+• FPI Outflows Cross ₹3 Lakh Crore Amid Crude Surge
+• ISRO Announces Four Launch Pads by 2029
+• Elon Musk Admits Throttling Ukraine Starlink Speeds
+• Brazil Holds High-Stakes Presidential Runoff
+• IMD Issues Bay of Bengal Cyclone Alert</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-25-morning.mp3" length="10451373" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-25-morning.mp3</guid>
+      <pubDate>Sun, 25 Oct 2026 08:11:00 -0400</pubDate>
+      <itunes:duration>1306</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Saturday, 24 October 2026 (Full)</title>
+      <description>**Brent crude surged past $116** as US intelligence warned of imminent Iranian threats, while **OpenAI cut internet access** for training frontier models following safety breaches.
+
+• Global oil surge over $116 and US Iran warning
+• OpenAI air-gaps frontier AI training
+• Starlink restores Ukraine speeds
+• Kim Jong Un visits China via new bridge
+• SEBI orders ₹546 crore refund in trading academy scam
+• Telangana drought cuts and jobs scheme</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-24-morning.mp3" length="13525677" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-24-morning.mp3</guid>
+      <pubDate>Sat, 24 Oct 2026 08:10:54 -0400</pubDate>
+      <itunes:duration>1690</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Friday, 23 October 2026 (Full)</title>
+      <description>Brent crude surges past $109 as Middle East shipping attacks disrupt supplies, triggering a global stock sell-off while India’s $3.2B Jio IPO draws record bidding.
+
+• Brent Crude Surges Past $109 After Hormuz Tanker Attack
+• Jio Platforms Mega-IPO Sets Global Record
+• US Supreme Court Blocks Student IDs in New Hampshire
+• India-US Trade Pact Nears Final Stage
+• AI Agents Face Banking Blockades And SDK Flaws</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-23-morning.mp3" length="8019693" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-23-morning.mp3</guid>
+      <pubDate>Fri, 23 Oct 2026 08:10:38 -0400</pubDate>
+      <itunes:duration>1002</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Thursday, 22 October 2026 (Full)</title>
+      <description>Brent crude surges past $111 after fresh Middle East attacks, rattling global markets as US-Israel strike planning on Iran targets early November.
+
+• Brent crude spikes past $111 after Hormuz tanker attack
+• Jio Platforms IPO fully subscribed on Day 2
+• Meta ordered to pay $25 billion in New Mexico privacy case
+• Tesla and SpaceX form committees to explore mega-merger
+• U.S. and Israel draft early November strike plans against Iran</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-22-morning.mp3" length="12756141" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-22-morning.mp3</guid>
+      <pubDate>Thu, 22 Oct 2026 08:10:34 -0400</pubDate>
+      <itunes:duration>1594</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
