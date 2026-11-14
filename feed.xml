@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>World Brief</title>
+    <link>https://daily-world-brief.github.io/world-brief-podcast/play.html</link>
+    <description>Daily India-first news podcast: India, USA and the world, with Kartik and Priya.</description>
+    <language>en-in</language>
+    <itunes:author>World Brief bot</itunes:author>
+    <itunes:image href="https://daily-world-brief.github.io/world-brief-podcast/cover.png"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>World Brief — Saturday, 14 November 2026 (Full)</title>
+      <description>The US, China, and Russia plan a historic nuclear summit, while India and the US enter the final stretch of a major trade pact.
+
+• Trump-Xi-Putin Trilateral Summit
+• India-US Trade Deal Near
+• OpenAI ChatGPT Wallet
+• Nvidia Board Approaches Arm CEO
+• US FAA Flight Ground Stop Lifted</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-14-morning.mp3" length="6732716" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-14-morning.mp3</guid>
+      <pubDate>Sat, 14 Nov 2026 08:11:01 -0500</pubDate>
+      <itunes:duration>841</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Friday, 13 November 2026 (Full)</title>
+      <description>Nvidia CEO Jensen Huang resigned following personal scandal and national security scrutiny, sending shockwaves through global tech markets as AI giant Anthropic’s $64B IPO was reported six times oversubscribed.
+
+• Nvidia CEO Jensen Huang Resigns
+• Anthropic IPO Demand 6x Oversubscribed
+• US Assures India on Lower Trade Tariffs
+• IRS Raises 2027 401k Limit
+• Global Microsoft Outage</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-13-morning.mp3" length="9144236" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-13-morning.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 08:10:35 -0500</pubDate>
+      <itunes:duration>1142</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Thursday, 12 November 2026 (Full)</title>
+      <description>Nvidia's board weighs ousting CEO Jensen Huang amid a foreign spy probe, while India's retail inflation surges to a two-year high of 6.09%.
+
+• Nvidia Board Weighs CEO Huang Future
+• India Retail Inflation Surges to 6.09%
+• Scott Colom Wins Historic Mississippi Senate Race
+• Qualcomm Cuts 1000 Tech Jobs in India
+• United Airlines Bans AI Booking Bots
+• Anthropic IPO Demand Soars</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-12-morning.mp3" length="7697900" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-12-morning.mp3</guid>
+      <pubDate>Thu, 12 Nov 2026 08:10:54 -0500</pubDate>
+      <itunes:duration>962</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Wednesday, 11 November 2026 (Full)</title>
+      <description>Anthropic sets a $1.4 trillion IPO valuation target as hot US inflation data triggers global market turbulence.
+
+• Anthropic Sets $1.4 Trillion IPO Price Band
+• Nvidia Board Hires Law Firm to Lead CEO Affair Probe
+• Hot US CPI Inflation Hits Wall Street &amp; Rate Bets
+• Qualcomm Begins 1,000 Tech Layoffs in India
+• Indian Rupee Surges to Strongest Level Since April</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-11-morning.mp3" length="10407788" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-11-morning.mp3</guid>
+      <pubDate>Wed, 11 Nov 2026 08:10:41 -0500</pubDate>
+      <itunes:duration>1300</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Tuesday, 10 November 2026 (Full)</title>
+      <description>Anthropic launches its historic $1-trillion Nasdaq IPO roadshow while oil slides under $90 as US-led Abu Dhabi peace talks commence.
+
+• Anthropic Historic \$1 Trillion Nasdaq IPO Roadshow
+• Global Oil Prices Fall Below \$90 on Iran De-Escalation Hopes
+• US-Mediated Ukraine Peace Talks Open in Abu Dhabi
+• Qantas Shifts White-Collar Jobs to India in AI Drive
+• Nvidia Board Probes CEO Over Spy Scandal</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-10-morning.mp3" length="4926189" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-10-morning.mp3</guid>
+      <pubDate>Tue, 10 Nov 2026 08:10:45 -0500</pubDate>
+      <itunes:duration>615</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Monday, 09 November 2026 (Full)</title>
+      <description>Nvidia's board opens a probe into CEO Jensen Huang over an affair with a suspected Chinese spy, as crude drops on cooling Middle East tensions.
+
+• Nvidia CEO Investigation
+• Tesla Cybertruck Sunset &amp; Robotaxi
+• Global Oil Price Drop
+• MakeMyTrip India IPO
+• Hyderabad Tech Investment Boom</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-09-morning.mp3" length="10095213" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-09-morning.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 08:10:47 -0500</pubDate>
+      <itunes:duration>1261</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Weekly Deep Dive — Sunday, 08 November 2026 (Weekly)</title>
+      <description>A political shakeup in the US midterm elections triggered a global tech market sell-off, driving a record ₹46,000 crore foreign capital surge into India while major AI companies began building their own off-grid power infrastructure.
+
+• US Midterm Elections Spark Global Tech Sell-Off and Legislative Realignment
+• Anthropic Secures $3.4 Billion Gas Generator Deal to Power AI Data Centers Off-Grid
+• Persian Gulf Escalation Triggers Naval Strikes and Shipping Exemptions
+• Global Market Sell-Off Drives Record ₹46,000 Crore Foreign Capital Surge into India
+• US Rule Scrapping H-1B Visa Extension Deference Affects Indian Workers Most</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-08-weekly.mp3" length="10859949" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-08-weekly.mp3</guid>
+      <pubDate>Sun, 08 Nov 2026 09:10:48 -0500</pubDate>
+      <itunes:duration>1357</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Sunday, 08 November 2026 (Full)</title>
+      <description>Anthropic locks in a $3.4 billion off-grid power deal for AI data centers as Middle East military tensions spike and India opens Samvat 2083 with record foreign fund inflows.
+
+• Anthropic's $3.4B private energy deal
+• Middle East Gulf of Oman naval clashes
+• Israeli President Herzog picks Gadi Eisenkot
+• India Muhurat trade &amp; ₹46,000 crore FPI inflow surge
+• Congressional probe into Nvidia CEO</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-08-morning.mp3" length="12956397" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-08-morning.mp3</guid>
+      <pubDate>Sun, 08 Nov 2026 08:10:47 -0500</pubDate>
+      <itunes:duration>1619</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Saturday, 07 November 2026 (Full)</title>
+      <description>US President Donald Trump named immigration hardliner Stephen Miller as White House Chief of Staff following midterm election losses, while US October job growth beat expectations with 165,000 new jobs.
+
+• Stephen Miller White House Chief of Staff
+• US October Jobs Report Beats Expectations
+• OpenAI $11 Billion Funding Round
+• Coca-Cola India Bottler Files DRHP for IPO
+• Tesla Sunsetting Cybertruck for Robotaxis</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-07-morning.mp3" length="11886189" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-07-morning.mp3</guid>
+      <pubDate>Sat, 07 Nov 2026 08:10:52 -0500</pubDate>
+      <itunes:duration>1485</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Friday, 06 November 2026 (Full)</title>
+      <description>Global tech stocks collapse after US midterm election results while Indian markets rally on record foreign inflows and plunging oil prices.
+
+• US Midterm Market Crash &amp; India Equity Rally
+• Canada 2027-2029 Immigration Levels Plan
+• OpenAI Releases GPT-6 Cyber Model
+• Tesla Cybertruck Sunset for Robotaxis
+• IRS 2027 Tax Inflation Adjustments</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-06-morning.mp3" length="10063533" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-06-morning.mp3</guid>
+      <pubDate>Fri, 06 Nov 2026 08:10:42 -0500</pubDate>
+      <itunes:duration>1257</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Thursday, 05 November 2026 (Full)</title>
+      <description>Democrats sweep US midterm elections to control Congress, driving a massive stock rally and an oil price drop while triggering tech regulation concerns.
+
+• US Midterm Election Results
+• US Sanctions Indian Entities for Iran Aid
+• SEBI Digital KYC Rules
+• OpenAI Data Center Power Policy
+• Space Debris Facility in Hyderabad</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-05-morning.mp3" length="10475373" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-05-morning.mp3</guid>
+      <pubDate>Thu, 05 Nov 2026 08:10:44 -0500</pubDate>
+      <itunes:duration>1309</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
