@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>World Brief</title>
+    <link>https://daily-world-brief.github.io/world-brief-podcast/play.html</link>
+    <description>Daily world news podcast: the world, the USA and India, with Jake and Emma.</description>
+    <language>en-us</language>
+    <itunes:author>World Brief bot</itunes:author>
+    <itunes:image href="https://daily-world-brief.github.io/world-brief-podcast/cover.png"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>World Brief — Friday, 27 November 2026 (Full)</title>
+      <description>IBM halts U.S. visa sponsorship for consulting roles, SAP plans 10,000 AI layoffs, and the India-US trade deal reaches its final stages.
+
+• IBM Ends US Visa Sponsorship
+• SAP Outlines 10,000 AI Layoffs
+• India-US Trade Pact Near Finalization
+• Sensex Tanks 989 Points as Oil Climbs
+• Swiss Critical Infrastructure Hit by AI Cyberattacks
+• Apple Opening First Hyderabad Store</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-27-morning.mp3" length="11791916" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-27-morning.mp3</guid>
+      <pubDate>Fri, 27 Nov 2026 08:10:53 -0500</pubDate>
+      <itunes:duration>1473</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Thursday, 26 November 2026 (Full)</title>
+      <description>US trade authorities propose 25% tariffs on 14 trading partners including India, while Nvidia halts regional server shipments amid tighter export curbs.
+
+• US Proposes 25% Tariffs on India and Trade Partners
+• Nvidia Halts Southeast Asian Server Shipments
+• Supreme Court Directs Bank Heads on Sanctions
+• Hyderabad Prepares for First Apple Store Opening
+• Macy's Thanksgiving Parade Postponed</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-26-morning.mp3" length="6809324" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-26-morning.mp3</guid>
+      <pubDate>Thu, 26 Nov 2026 08:10:38 -0500</pubDate>
+      <itunes:duration>851</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Wednesday, 25 November 2026 (Full)</title>
+      <description>Tech valuations re-align as Anthropic falls below its IPO price, while Washington prepares broad new tariff hikes and strips health coverage from 300,000 legal US immigrants.
+
+• Anthropic IPO stock slump below $83
+• US Section 301 tariffs on India and 15 nations
+• 300k legal US immigrants losing Medicare
+• Indian stock market Sensex 1,500pt surge
+• China Shenzhou-24 launches Pakistan astronaut
+• Huawei convicted in US trade secret trial</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-25-morning.mp3" length="11441324" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-25-morning.mp3</guid>
+      <pubDate>Wed, 25 Nov 2026 08:10:40 -0500</pubDate>
+      <itunes:duration>1430</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Tuesday, 24 November 2026 (Full)</title>
+      <description>Nvidia reinstates Jensen Huang as CEO following direct White House intervention, sparking a massive Wall Street tech rebound while triggering political backlash.
+
+• Nvidia Reinstates Jensen Huang as CEO
+• SEBI Bans IPO Grey Market Premium
+• Ukraine Strikes Russian Warship in Libya
+• Anthropic Post-IPO Slump
+• Google Cloud India Layoffs Clarified</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-24-morning.mp3" length="6954476" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-24-morning.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 08:10:46 -0500</pubDate>
+      <itunes:duration>869</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Monday, 23 November 2026 (Full)</title>
+      <description>Global markets show signs of stabilization as Asian stocks attempt a rebound from last week’s brutal AI-driven sell-off, while India and Nepal announce a major $1.6 billion economic aid package.
+
+• India-Nepal Aid Package
+• US Market Correction
+• Anthropic IPO Impact
+• India-NZ Test Draw
+• AI Regulation Trends</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-23-morning.mp3" length="5432108" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-23-morning.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 08:10:42 -0500</pubDate>
+      <itunes:duration>678</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Weekly Deep Dive — Sunday, 22 November 2026 (Weekly)</title>
+      <description>Wall Street plunges into official correction territory following Anthropic’s historic trillion-dollar IPO and a global tech liquidation, while India’s economic momentum holds firm amid surging energy costs.
+
+• Wall Street Corrections and Tech Sell-Offs
+• India's Oil Import Bill Surges 60%
+• Anthropic's Historic IPO and Market Impact
+• South Korea AI Cheating Exam Scandal
+• India Racks Up Record Test Total in New Zealand</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-22-weekly.mp3" length="11549228" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-22-weekly.mp3</guid>
+      <pubDate>Sun, 22 Nov 2026 09:10:34 -0500</pubDate>
+      <itunes:duration>1443</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Sunday, 22 November 2026 (Full)</title>
+      <description>Global markets suffer a severe correction as Wall Street indexes sink following Anthropic’s historic IPO and intensifying tech sell-offs, while India's trade ties expand.
+
+• Wall Street Corrections and Tech Sell-Offs
+• India's Oil Import Bill Surges 60%
+• Anthropic's Historic IPO and Market Impact
+• South Korea AI Cheating Exam Scandal
+• India Racks Up Record Test Total in New Zealand</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-22-morning.mp3" length="12101804" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-22-morning.mp3</guid>
+      <pubDate>Sun, 22 Nov 2026 08:10:38 -0500</pubDate>
+      <itunes:duration>1512</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Saturday, 21 November 2026 (Full)</title>
+      <description>Wall Street plunges into correction territory as an AI tech rout deepens, while India and the US execute major joint security actions.
+
+• Wall Street Tech Rout &amp; Market Correction
+• Operation Monsoon Thunder US-India Drug Bust
+• Trump Foreign Data Center Tax Proposal
+• Nikhil Gupta US Sentencing
+• Houthi Missile Attack on Riyadh
+• Anthropic AI Math Claim vs Counter-Proof</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-21-morning.mp3" length="13793516" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-21-morning.mp3</guid>
+      <pubDate>Sat, 21 Nov 2026 08:10:39 -0500</pubDate>
+      <itunes:duration>1724</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Friday, 20 November 2026 (Full)</title>
+      <description>Anthropic's post-IPO slump triggered a global tech sell-off as Wall Street sank, while India's markets and rupee surged on record foreign inflows.
+
+• Anthropic IPO Slump and Tech Sell-Off
+• White House Fires Cyber Chief
+• US Court Blocks Student Visa Cap
+• India Rupee and Market Surge
+• Russia Bombards Kyiv Bridges
+• ICJ Genocide Ruling Against Myanmar</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-20-morning.mp3" length="11906924" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-20-morning.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 08:10:36 -0500</pubDate>
+      <itunes:duration>1488</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Thursday, 19 November 2026 (Full)</title>
+      <description>AI giant Anthropic makes market history with a massive IPO on Nasdaq, valuing the firm near $1.5 trillion while global leaders gather in China for APEC.
+
+• Anthropic's Record-Breaking $107B Nasdaq IPO
+• Trilateral Summit in China with Trump, Xi, and Putin
+• Indian Markets Rebound and Rupee Strength
+• Cyclone Akvan Threatens India's East Coast
+• UN Court Rules Myanmar Guilty of Rohingya Genocide</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-19-morning.mp3" length="5133548" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-19-morning.mp3</guid>
+      <pubDate>Thu, 19 Nov 2026 08:10:41 -0500</pubDate>
+      <itunes:duration>641</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>World Brief — Wednesday, 18 November 2026 (Full)</title>
+      <description>President Trump arrives in Shenzhen for a historic trilateral summit with Xi and Putin, while Nvidia reports stellar Q3 results under interim CEO Colette Kress, calming global AI trade fears ahead of Anthropic's massive Nasdaq debut.
+
+• Trump Lands in China for Trilateral Summit
+• Nvidia Q3 Earnings Ease AI Market Fears
+• Anthropic Prepares for Mammoth Nasdaq IPO
+• Cyclone Akvan Threatens Indian Coast
+• Federal Judge Blocks Student Visa Caps</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-11-18-morning.mp3" length="13602092" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-18-morning.mp3</guid>
+      <pubDate>Wed, 18 Nov 2026 08:10:52 -0500</pubDate>
+      <itunes:duration>1700</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
